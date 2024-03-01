@@ -1,0 +1,174 @@
+[
+    {
+        "id": 1,
+        "name": "Manchester United",
+        "description": "Manchester United Football Club is a professional football club based in Manchester, England. They compete in the Premier League and have a rich history of success.",
+        "foundedYear": 1878,
+        "active": true,
+        "logoURL": "https://www.shutterstock.com/nl/image-vector/manchester-united-icon-logo-art-design-2271273217",
+        "location": "Manchester, England",
+        "amountOfTrophies": 66,
+        "manager": {
+            "id": 101,
+            "name": "Erik ten Hag",
+            "nationality": "Dutch",
+            "profilePicURL": "https://sortitoutsidospaces.b-cdn.net/megapacks/cutoutfaces/originals/2023.15/14394.png"
+        },
+        "players": ["Raphael Varane", "Bruno Fernandes", "Marcus Rashford", "Antony", "Scott McTominay"]
+    },
+    {
+        "id": 2,
+        "name": "Real Madrid",
+        "description": "Real Madrid Club de Fútbol, commonly referred to as Real Madrid, is a professional football club based in Madrid, Spain. They are one of the most successful clubs in the world.",
+        "foundedYear": 1902,
+        "active": true,
+        "logoURL": "https://www.shutterstock.com/nl/image-vector/real-madrid-fc-cup-icon-logo-2267663035",
+        "location": "Madrid, Spain",
+        "amountOfTrophies": 97,
+        "manager": {
+            "id": 102,
+            "name": "Carlo Ancelotti",
+            "nationality": "Italian",
+            "profilePicURL": "https://i0.wp.com/www.celebrity-cutouts.com/wp-content/uploads/2022/05/carlo-ancelotti-suit-buddy-cardboard-cutout.png?fit=1200%2C600&ssl=1"
+        },
+        "players": ["Ferland Mendy", "Vinicius Junior", "Luka Modric", "Federico Valverde", "Toni Kroos"]
+    },
+    {
+        "id": 3,
+        "name": "FC Barcelona",
+        "description": "Futbol Club Barcelona, commonly referred to as Barcelona and colloquially known as Barça, is a professional football club based in Barcelona, Catalonia, Spain. They are one of the most successful clubs in Spain.",
+        "foundedYear": 1899,
+        "active": true,
+        "logoURL": "https://www.shutterstock.com/nl/image-vector/barcelona-fc-cup-icon-logo-sign-2267672941",
+        "location": "Barcelona, Spain",
+        "amountOfTrophies": 96,
+        "manager": {
+            "id": 103,
+            "name": "Xavi Hernandez",
+            "nationality": "Spanish",
+            "profilePicURL": "https://assets.laliga.com/squad/2023/t178/man52547/256x278/man52547_t178_2023_1_001_000.png"
+        },
+        "players": ["Raphina", "Robert Lewandowski", "Frenkie de Jong", "Jules Kounde", "Ronald Araujo"]
+    },
+    {
+        "id": 4,
+        "name": "Manchester City",
+        "description": "Manchester City Football Club is a professional football club based in Manchester, England. They are known for their modern success in English football.",
+        "foundedYear": 1880,
+        "active": true,
+        "logoURL": "https://www.shutterstock.com/nl/image-vector/manchester-city-icon-logo-emblem-sign-2276193891",
+        "location": "Manchester, England",
+        "amountOfTrophies": 30,
+        "manager": {
+            "id": 104,
+            "name": "Pep Guardiola",
+            "nationality": "Spanish",
+            "profilePicURL": "https://sortitoutsidospaces.b-cdn.net/megapacks/cutoutfaces/originals/2024.01/1120.png"
+        },
+        "players": ["Kevin De Bruyne", "Erling Haaland", "Phil Foden", "Ruben Dias", "Ederson"]
+    },
+    {
+        "id": 5,
+        "name": "Arsenal",
+        "description": "Arsenal Football Club is a professional football club based in Islington, London, England. They have a strong history and are known for their attractive style of play.",
+        "foundedYear": 1886,
+        "active": true,
+        "logoURL": "https://www.shutterstock.com/nl/image-vector/arsenal-logo-icon-template-isolated-red-2271021445",
+        "location": "London, England",
+        "amountOfTrophies": 46,
+        "manager": {
+            "id": 105,
+            "name": "Mikel Arteta",
+            "nationality": "Spanish",
+            "profilePicURL": "https://globaleng.biz/usr/person/big-person-16815003381.png"
+        },
+        "players": ["Gabriel Martinelli", "Bukayo Saka", "Thomas Partey", "Gabriel Magalhaes", "Emile Smith Rowe"]
+    },
+    {
+        "id": 6,
+        "name": "Liverpool",
+        "description": "Liverpool Football Club is a professional football club based in Liverpool, England. They are one of the most successful clubs in English football history.",
+        "foundedYear": 1892,
+        "active": true,
+        "logoURL": "https://www.shutterstock.com/nl/image-vector/liverpool-logo-art-youll-never-walk-2272228093",
+        "location": "Liverpool, England",
+        "amountOfTrophies": 64,
+        "manager": {
+            "id": 106,
+            "name": "Jürgen Klopp",
+            "nationality": "German",
+            "profilePicURL": "https://i0.wp.com/anfieldwatch.co.uk/wp-content/uploads/2022/01/Jurgen-Klopp-2.png?fit=350%2C350&quality=99&ssl=1"
+        },
+        "players": ["Mohamed Salah", "Ryan Gravenberch", "Virgil van Dijk", "Trent Alexander-Arnold", "Alisson Becker"]
+    },
+    {
+        "id": 7,
+        "name": "Bayern Munich",
+        "description": "Fußball-Club Bayern München e.V., commonly known as FC Bayern München, FCB, Bayern Munich, or FC Bayern, is a professional football club based in Munich, Bavaria, Germany. They are the most successful club in German football history.",
+        "foundedYear": 1900,
+        "active": true,
+        "logoURL": "https://www.shutterstock.com/nl/image-vector/fc-bayern-munich-icon-logo-sign-2268233419",
+        "location": "Munich, Germany",
+        "amountOfTrophies": 82,
+        "manager": {
+            "id": 107,
+            "name": "Thomas Tuchel",
+            "nationality": "German",
+            "profilePicURL": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ffcbayern.com%2Fen%2Fteams%2Ffirst-team%2Fcoaches-and-staff%2Fthomas-tuchel&psig=AOvVaw2GAALO9C42Y3aGSR_AwKmI&ust=1709224101268000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjqyYy6zoQDFQAAAAAdAAAAABAE"
+        },
+        "players": ["Leon Goretzka", "Thomas Muller", "Joshua Kimmich", "Manuel Neuer", "Leroy Sane"]
+    },
+    {
+        "id": 8,
+        "name": "Inter Milan",
+        "description": "Football Club Internazionale Milano, commonly referred to as Internazionale or simply Inter, is a professional football club based in Milan, Lombardy, Italy. They have a strong rivalry with AC Milan.",
+        "foundedYear": 1908,
+        "active": true,
+        "logoURL": "https://www.shutterstock.com/nl/image-vector/international-nerazzurri-italia-serie-league-inter-2095615876",
+        "location": "Milan, Italy",
+        "amountOfTrophies": 39,
+        "manager": {
+            "id": 108,
+            "name": "Simone Inzaghi",
+            "nationality": "Italian",
+            "profilePicURL": "https://www.pesmaster.com/pes-2021/graphics/coaches/coach_100817.png"
+        },
+        "players": ["Benjamin Pavard", "Lautaro Martinez", "Nicolo Barella", "Stefan de Vrij", "Denzel Dumfries"]
+    },
+    {
+        "id": 9,
+        "name": "Juventus",
+        "description": "Juventus Football Club, colloquially known as Juve, is a professional football club based in Turin, Piedmont, Italy. They are one of the most successful clubs in Italian football history.",
+        "foundedYear": 1897,
+        "active": true,
+        "logoURL": "https://www.shutterstock.com/nl/image-vector/icon-symbol-sign-graphic-design-badge-2275681499",
+        "location": "Turin, Italy",
+        "amountOfTrophies": 71,
+        "manager": {
+            "id": 109,
+            "name": "Massimiliano Allegri",
+            "nationality": "Italian",
+            "profilePicURL": "https://www.footballdatabase.eu/images/photos/players/a_17/17683.jpg"
+        },
+        "players": ["Danilo", "Dusan Vlahovic", "Federico Chiesa", "Paul Pogba", "Wojciech Szczesny"]
+    },
+    {
+        "id": 10,
+        "name": "Napoli",
+        "description": "Società Sportiva Calcio Napoli, commonly referred to as Napoli, is a professional football club based in Naples, Campania, Italy. They have a passionate fanbase and are known for their attacking style of play.",
+        "foundedYear": 1926,
+        "active": true,
+        "logoURL": "https://www.shutterstock.com/nl/image-vector/napoli-initial-n-logo-circle-blue-2245514673",
+        "location": "Naples, Italy",
+        "amountOfTrophies": 17,
+        "manager": {
+            "id": 110,
+            "name": "Francesco Calzona",
+            "nationality": "Italian",
+            "profilePicURL": "https://imagecache.365scores.com/image/upload/f_png,w_80,h_80,c_limit,q_auto:eco,dpr_2,d_Athletes:default.png,r_max,c_thumb,g_face,z_0.65/Athletes/129385"
+        },
+        "players": ["Lorenzo Insigne", "Victor Osimhen", "Giovanni Di Lorenzo", "Chvitsja Kvaratschelia", "Piotr Zielinski"]
+    }
+]
+
+
